@@ -1,2 +1,2 @@
 # BackEnd-API
-Aprendendo a criar uma API usando Node.js com MongoDB
+ Criando uma API de gerenciamento de dados, com Node.js e MongoDB
